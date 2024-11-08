@@ -11,9 +11,6 @@ Se você encontrar algum erro ou tiver sugestões para melhorar o conteúdo, con
 Boa prática e bons estudos!
 
 
-
-
-
 ## Índice
 
 1. Exercício 1: Calcular a diferença entre duas datas em dias
@@ -53,3 +50,6 @@ Boa prática e bons estudos!
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
+| Exercício 1 | Tema | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `Classes e Objetos` | `Criação de classes e instância de objetos, a base da POO.` |
