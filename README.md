@@ -52,4 +52,11 @@ Boa prática e bons estudos!
 
 | Exercício 1 | Tema | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` | `Classes e Objetos` | `Criação de classes e instância de objetos, a base da POO.` |
+| `01` | `Lógica de programação` | `Calcular a diferença entre duas datas em dias.` |
+
+### Resposta com operações matematicas
+![normal](https://github.com/user-attachments/assets/fe41e927-35bd-4292-8237-5bdf735a6e3a)
+
+
+### Resolvendo com if else
+![Resolvendo em if else](https://github.com/user-attachments/assets/27f0a64d-ccdd-4424-824e-ea437de5da2b)
