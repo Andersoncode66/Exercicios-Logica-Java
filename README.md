@@ -46,3 +46,10 @@ Boa prática e bons estudos!
 28. Verificar se dois números são amigos
 29. Determinar a quantidade de anos, meses e dias em uma quantidade de dias
 30. Calcular a média ponderada de quatro notas
+
+
+
+<h1 align="center">Respostas ☕ </h1>
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
